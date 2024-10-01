@@ -1,12 +1,12 @@
-val scala3Version = "3.5.0"
+val scala3Version = "3.5.1"
 
 val Compilonly = config("Compilonly") hide
 
 lazy val root = project
   .in(file("."))
   .settings(
-    name := "Scala-Plugin-For-Allay",
-    version := "0.1.0-SNAPSHOT",
+    name := "AllayScalaLibrary",
+    version := "3.5.1",
     scalaVersion := scala3Version,
 
     resolvers ++= Seq(

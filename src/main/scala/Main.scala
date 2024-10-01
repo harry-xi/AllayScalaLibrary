@@ -1,10 +1,8 @@
+package top.harryxi.allaymc
 import org.allaymc.api.plugin.Plugin
 
-class MyPlugin extends Plugin {
-  override def onLoad(): Unit = 
-    pluginLogger.info("onLoad")
-  override def onEnable(): Unit = 
-    pluginLogger.info("onEnable")
-  override def onDisable(): Unit = 
-    pluginLogger.info("onDisable")
+class AllayScalaLibrary extends Plugin {
+  override def onLoad(): Unit = {}
+  override def onEnable(): Unit = {}
+  override def onDisable(): Unit = {}
 }

@@ -1,6 +1,6 @@
 {
-    "entrance": "MyPlugin",
-    "name": "ScalaPluginTemplate",
-    "authors": ["harryxi"],
-    "version": "1.0.0"
+    "entrance": "top.harryxi.allaymc.AllayScalaLibrary",
+    "name": "AllayScalaLibrary",
+    "authors": ["scala","harryxi"],
+    "version": "3.5.1"
 }

@@ -1,4 +1,6 @@
-# Allay Scala Plugin Template
+# Scala Library for Allay Plugins
+
+Scala standard library for allay
 
 ## Usage
 
